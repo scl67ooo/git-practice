@@ -1,1 +1,3 @@
 b.txt
+a.txt
+# a.txt 이 파일은 나중에 .gitignore에 추가되어 무시가 안돼서 무의미하다
